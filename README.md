@@ -20,3 +20,20 @@
 
 ```bash
 pip install -r requirements.txt
+```
+> Asegúrate de estar usando **Python 3.7 o superior**
+
+🧪 Uso
+------
+
+`python password_manager.py`
+
+1.  ✏️ Introduce una descripción (por ejemplo: `"Correo Gmail"`)
+    
+2.  🎛️ Ajusta las opciones de seguridad (mayúsculas, dígitos, símbolos)
+    
+3.  🔁 Pulsa **Generar** para crear una contraseña segura
+    
+4.  💾 Pulsa **Guardar** para almacenarla cifrada
+    
+5.  📋 Pulsa **Mostrar Contraseñas** para ver lo guardado
