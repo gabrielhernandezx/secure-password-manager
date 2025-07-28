@@ -1,0 +1,25 @@
+# Archivos y carpetas generados por Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Base de datos SQLite local
+*.db
+
+# Entornos virtuales (si usas uno)
+venv/
+.env
+*.env
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de editores
+*.bak
+*.swp
+*~
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
